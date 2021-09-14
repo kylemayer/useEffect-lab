@@ -3,7 +3,7 @@ import { render, screen } from '@testing-library/react';
 import { rest } from 'msw';
 import { setupServer } from 'msw/node';
 import { MemoryRouter } from 'react-router';
-import VillagerDetail from './VillagerDetail';
+import DetailContainer from './DetailContainer';
 
 const server = setupServer(
   rest.get('https://ac-vill.herokuapp.com/villagers', (req, res, ctx) => {
@@ -11,14 +11,14 @@ const server = setupServer(
   })
 );
 
-describe('VillagerDetail', () => {
+describe('DetailContainer', () => {
   beforeAll(() => server.listen());
   afterAll(() => server.close());
 
   it('display a single villager', async () => {
     const { container } = render(
       <MemoryRouter>
-        <VillagerDetail />
+        <DetailContainer />
       </MemoryRouter>
     );
 

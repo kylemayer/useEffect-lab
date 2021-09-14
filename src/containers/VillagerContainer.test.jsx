@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import VillagersList from './VillagersList';
+import VillagerContainer from './VillagerContainer';
 import { MemoryRouter } from 'react-router-dom';
 import { rest } from 'msw';
 import { setupServer } from 'msw/node';
@@ -11,14 +11,14 @@ const server = setupServer(
   })
 );
 
-describe('VillagersList Container', () => {
+describe('VillagerContainer', () => {
   beforeAll(() => server.listen());
   afterAll(() => server.close());
 
   it('displays a list of villagers on the page', async () => {
     const { container } = render(
       <MemoryRouter>
-        <VillagersList />
+        <VillagerContainer />
       </MemoryRouter>
     );
 
