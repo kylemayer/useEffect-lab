@@ -24,7 +24,7 @@ describe('VillagerContainer', () => {
 
     screen.getByText('Loading...');
 
-    const ul = await screen.findByRole('list', { name: '' });
+    const ul = await screen.findByRole('list', { name: 'villagers' });
     expect(ul).not.toBeEmptyDOMElement();
     expect(container).toMatchSnapshot();
   });

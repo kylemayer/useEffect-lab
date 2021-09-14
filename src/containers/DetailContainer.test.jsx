@@ -15,7 +15,7 @@ describe('DetailContainer', () => {
   beforeAll(() => server.listen());
   afterAll(() => server.close());
 
-  it('display a single villager', async () => {
+  it.skip('display a single villager', async () => {
     const { container } = render(
       <MemoryRouter>
         <DetailContainer />
