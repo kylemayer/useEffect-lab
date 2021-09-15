@@ -2,9 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 import Villager from './Villager';
+import style from './VillagerList.css';
 
 const VillagerList = ({ villagers }) => (
-  <ul aria-label="villagers">
+  <ul aria-label="villagers" className={style.VillagerList} >
     {villagers.map((villager) => (
       <li key={villager.id}>
         <Link to={`/${villager.id}`}>

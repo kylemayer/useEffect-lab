@@ -1,13 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import style from './Villager.css';
 
 const Villager = ({ image, name, gender, phrase }) => (
-  <figure>
-    <img src={image} alt={name}/>
-    <figcaption>
-      {name} {gender} - {phrase}
-    </figcaption>
-  </figure>
+  <div>
+    <img className={style.Villager} src={image} alt={name}/>
+    <p>{name} ({gender})</p>
+    <p>"{phrase}"</p>
+  </div>
 );
 
 Villager.propTypes = {
