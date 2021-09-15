@@ -7,13 +7,12 @@ const VillagerContainer = () => {
   const [villagers, setVillagers] = useState([]);
 
   useEffect(() => {
-
     fetchVillagers()
       .then((villagers) => setVillagers(villagers))
       .finally(() => setLoading(false));
   }, []);
 
-  if(loading) return <h1>Loading villagers...</h1>;
+  if(loading) return <h3>Loading villagers...</h3>;
 
   return <VillagerList villagers={villagers} />;
 };

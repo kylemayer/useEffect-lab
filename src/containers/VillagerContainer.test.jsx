@@ -4,10 +4,11 @@ import VillagerContainer from './VillagerContainer';
 import { MemoryRouter } from 'react-router-dom';
 import { rest } from 'msw';
 import { setupServer } from 'msw/node';
+import listVillagers from '../data/listVillagers.json';
 
 const server = setupServer(
   rest.get('https://ac-vill.herokuapp.com/villagers', (req, res, ctx) => {
-    return res(ctx.json());
+    return res(ctx.json(listVillagers));
   })
 );
 
@@ -22,7 +23,7 @@ describe('VillagerContainer', () => {
       </MemoryRouter>
     );
 
-    screen.getByText('Loading...');
+    screen.getByText('Loading villagers...');
 
     const ul = await screen.findByRole('list', { name: 'villagers' });
     expect(ul).not.toBeEmptyDOMElement();

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Villager from '../components/Villager';
-import { Link } from 'react-route-dom';
+import { Link } from 'react-router-dom';
+import Villager from './Villager';
 
 const VillagerList = ({ villagers }) => (
   <ul aria-label="villagers">

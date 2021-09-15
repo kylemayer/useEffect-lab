@@ -5,7 +5,7 @@ const Villager = ({ image, name, gender, phrase }) => (
   <figure>
     <img src={image} alt={name}/>
     <figcaption>
-      `${name}(${gender})` - {phrase}
+      {name} {gender} - {phrase}
     </figcaption>
   </figure>
 );
