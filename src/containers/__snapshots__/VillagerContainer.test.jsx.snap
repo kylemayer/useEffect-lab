@@ -4,480 +4,606 @@ exports[`VillagerContainer displays a list of villagers on the page 1`] = `
 <div>
   <ul
     aria-label="villagers"
+    class="VillagerList"
   >
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e460"
       >
-        <figure>
+        <div>
           <img
             alt="Admiral"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/Admiral_NH.png/revision/latest?cb=20200802081138"
           />
-          <figcaption>
+          <p>
             Admiral
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             aye aye
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e461"
       >
-        <figure>
+        <div>
           <img
             alt="Agent S"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/Agent_S_NH.png/revision/latest?cb=20200719092526"
           />
-          <figcaption>
+          <p>
             Agent S
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             sidekick
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e462"
       >
-        <figure>
+        <div>
           <img
             alt="Agnes"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/Agnes_NH.png/revision/latest?cb=20200804230432"
           />
-          <figcaption>
+          <p>
             Agnes
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             snuffle
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e463"
       >
-        <figure>
+        <div>
           <img
             alt="Al"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Al_NH.png/revision/latest?cb=20200802150354"
           />
-          <figcaption>
+          <p>
             Al
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             hoo hoo ha CFayyyeee NH
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e464"
       >
-        <figure>
+        <div>
           <img
             alt="Alfonso"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/Alfonso_NH.png/revision/latest?cb=20200817164717"
           />
-          <figcaption>
+          <p>
             Alfonso
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             it'sa me
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e465"
       >
-        <figure>
+        <div>
           <img
             alt="Alice"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/Alice_NH.png/revision/latest?cb=20200803181400"
           />
-          <figcaption>
+          <p>
             Alice
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             guvnor
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e46c"
       >
-        <figure>
+        <div>
           <img
             alt="Ankha"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/Ankha_NH.png/revision/latest?cb=20200817172044"
           />
-          <figcaption>
+          <p>
             Ankha
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             me meow
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e466"
       >
-        <figure>
+        <div>
           <img
             alt="Alli"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/Alli_NH.png/revision/latest?cb=20200802061731"
           />
-          <figcaption>
+          <p>
             Alli
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             graaagh
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e46b"
       >
-        <figure>
+        <div>
           <img
             alt="Anicotti"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/Anicotti_NH.png/revision/latest?cb=20200802164003"
           />
-          <figcaption>
+          <p>
             Anicotti
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             cannoli
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e46a"
       >
-        <figure>
+        <div>
           <img
             alt="Angus"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Angus_NH.png/revision/latest?cb=20200802083758"
           />
-          <figcaption>
+          <p>
             Angus
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             macmoo
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e467"
       >
-        <figure>
+        <div>
           <img
             alt="Amelia"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/Amelia_NH.png/revision/latest?cb=20200817171545"
           />
-          <figcaption>
+          <p>
             Amelia
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             "eaglet" (GCN)"cuz"(WW & CF & NL)
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e46d"
       >
-        <figure>
+        <div>
           <img
             alt="Annalisa"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/Annalisa_NH.png/revision/latest?cb=20200802063308"
           />
-          <figcaption>
+          <p>
             Annalisa
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             gumdrop
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e46f"
       >
-        <figure>
+        <div>
           <img
             alt="Antonio"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/Antonio_NH.png/revision/latest?cb=20200802063352"
           />
-          <figcaption>
+          <p>
             Antonio
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             honk
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e46e"
       >
-        <figure>
+        <div>
           <img
             alt="Annalise"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Annalise_NH.png/revision/latest?cb=20200802153943"
           />
-          <figcaption>
+          <p>
             Annalise
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             nipper (NL, NH)whatever (AF+, AC, AFe+)
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e468"
       >
-        <figure>
+        <div>
           <img
             alt="Anabelle"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/Anabelle_NH.png/revision/latest?cb=20200802063200"
           />
-          <figcaption>
+          <p>
             Anabelle
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             snorty
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e470"
       >
-        <figure>
+        <div>
           <img
             alt="Apollo"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/Apollo_NH.png/revision/latest?cb=20200719092927"
           />
-          <figcaption>
+          <p>
             Apollo
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             pah
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e469"
       >
-        <figure>
+        <div>
           <img
             alt="Anchovy"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Anchovy_NH.png/revision/latest?cb=20200802081231"
           />
-          <figcaption>
+          <p>
             Anchovy
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             chuurp
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e471"
       >
-        <figure>
+        <div>
           <img
             alt="Apple"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/Apple_NH.png/revision/latest?cb=20200802151508"
           />
-          <figcaption>
+          <p>
             Apple
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             cheekers
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e472"
       >
-        <figure>
+        <div>
           <img
             alt="Astrid"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/Astrid_NH.png/revision/latest?cb=20200802154954"
           />
-          <figcaption>
+          <p>
             Astrid
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             my pet
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e473"
       >
-        <figure>
+        <div>
           <img
             alt="Audie"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Audie_NH.png/revision/latest?cb=20200829012735"
           />
-          <figcaption>
+          <p>
             Audie
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             foxtrot
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e474"
       >
-        <figure>
+        <div>
           <img
             alt="Aurora"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/Aurora_NH.png/revision/latest?cb=20200202215217"
           />
-          <figcaption>
+          <p>
             Aurora
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             b-b-baby
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e475"
       >
-        <figure>
+        <div>
           <img
             alt="Ava"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/Ava_NH.png/revision/latest?cb=20200609055741"
           />
-          <figcaption>
+          <p>
             Ava
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             beaker
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e476"
       >
-        <figure>
+        <div>
           <img
             alt="Avery"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/Avery_NH.png/revision/latest?cb=20200608222354"
           />
-          <figcaption>
+          <p>
             Avery
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             skree-haw
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e478"
       >
-        <figure>
+        <div>
           <img
             alt="Baabara"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/df/Baabara_NH.png/revision/latest?cb=20200802165552"
           />
-          <figcaption>
+          <p>
             Baabara
-             
+             (
             female
-             - 
+            )
+          </p>
+          <p>
+            "
             daahling
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
     <li>
       <a
         href="/5f5fb4bbbfd05c2aed82e47b"
       >
-        <figure>
+        <div>
           <img
             alt="Barold"
+            class="Villager"
             src="https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/Barold_NH.png/revision/latest?cb=20200802141140"
           />
-          <figcaption>
+          <p>
             Barold
-             
+             (
             male
-             - 
+            )
+          </p>
+          <p>
+            "
             cubby
-          </figcaption>
-        </figure>
+            "
+          </p>
+        </div>
       </a>
     </li>
   </ul>
