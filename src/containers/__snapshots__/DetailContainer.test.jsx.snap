@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailContainer display a single villager 1`] = `
+<div>
+  <h1>
+    Loading villager...
+  </h1>
+</div>
+`;

@@ -1,0 +1,26 @@
+{
+    "_id": "5f5fb4bbbfd05c2aed82e472",
+    "url": "https://animalcrossing.fandom.com/wiki/Astrid",
+    "name": "Astrid",
+    "japaneseName": "キッズ Kizzu",
+    "image": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/Astrid_NH.png/revision/latest?cb=20200802154954",
+    "quote": "An apple doesn't fall far from the tree.",
+    "gender": "female",
+    "personality": "snooty",
+    "species": "kangaroo",
+    "birthday": "September 8th (Virgo)",
+    "phrase": "my pet",
+    "skill": "Karaoke",
+    "goal": "Singer",
+    "coffee": {
+        "roast": "Blue Mountain",
+        "milk": "Just a little bit of milk",
+        "sugar": "One spoonful of sugar"
+    },
+    "song": {
+        "name": "K.K. Gumbo",
+        "link": "https://animalcrossing.fandom.com/wiki/K.K._Gumbo"
+    },
+    "style": "Rock 'n' roll",
+    "__v": 0
+}
